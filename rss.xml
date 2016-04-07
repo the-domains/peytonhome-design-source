@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[& THE MARYLAND DESIGN CENTER]]></title>
+        <description><![CDATA[& THE MARYLAND DESIGN CENTER]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Apr 2016 18:04:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Maryland Design Center & PEYTONHOME]]></title>
+            <description><![CDATA[<article><h1>The Maryland Design Center & PEYTONHOME</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf8fdaf5-9e14-4395-9bf6-045c15d20c5e.jpg"></article>]]></description>
+            <link>undefinedthe-maryland-design-center-and-peytonhome/index.html</link>
+            <guid isPermaLink="false">b92567c6-7a3e-40ca-82eb-768899351d75</guid>
+            <pubDate>Thu, 07 Apr 2016 18:04:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
