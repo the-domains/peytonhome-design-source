@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[& THE MARYLAND DESIGN CENTER]]></title>
         <description><![CDATA[& THE MARYLAND DESIGN CENTER]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/peytonhome-design-source/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 18:04:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 18:29:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/peytonhome-design-source/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vendors]]></title>
+            <description><![CDATA[<article><h1>Vendors</h1><p>Kravet</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d770ac31-2a82-4d91-a1c9-b354c970a057.jpg"></article>]]></description>
+            <link>https://thegrid.ai/peytonhome-design-source/vendors/index.html</link>
+            <guid isPermaLink="false">0973dd9d-e006-47b3-9bab-e1fa97dbb843</guid>
+            <pubDate>Thu, 07 Apr 2016 18:28:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Maryland Design Center & PEYTONHOME]]></title>
             <description><![CDATA[<article><h1>The Maryland Design Center & PEYTONHOME</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf8fdaf5-9e14-4395-9bf6-045c15d20c5e.jpg"></article>]]></description>
-            <link>undefinedthe-maryland-design-center-and-peytonhome/index.html</link>
+            <link>https://thegrid.ai/peytonhome-design-source/the-maryland-design-center-and-peytonhome/index.html</link>
             <guid isPermaLink="false">b92567c6-7a3e-40ca-82eb-768899351d75</guid>
             <pubDate>Thu, 07 Apr 2016 18:04:35 GMT</pubDate>
         </item>
