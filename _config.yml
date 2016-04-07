@@ -1,0 +1,28 @@
+name: PEYTONHOME DESIGN SOURCE
+favicon: null
+layout_spectrum: 0.4864884205162525
+typography_spectrum: 0.3431557647418231
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.21682545845396817
+  lightness: 0.21717887790873647
+  saturation: 0.785206399159506
+  rhythmicContrast: 0.2522800082806498
+purpose: []
